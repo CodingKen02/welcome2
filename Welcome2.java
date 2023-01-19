@@ -1,5 +1,5 @@
 /*
-Name: Kennedy Keyes
+Name: Kennedy
 Date: February 11, 2021
 Name of Program: Welcome2.java
 Description: This program will print a line of text with multiple statements. 
